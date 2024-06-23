@@ -3,7 +3,7 @@
 - Cursando Engenharia de Software - 4 semestre
 - Analista CRM Marketing Cloud Salesforce
 - Email Studio, Content Builder, Journey Builder, Data Extension
-- Estudando - HTML5, CSS3, JS, Python, Salesforce Introduçao Marketing Cloud 
+- Estudando - HTML5, CSS3, JS, Python, Salesforce Introduçao Marketing Cloud, Insider 
 - Pronome - Ele/Dele 
 
 <div style="display: inline_block"><br>
